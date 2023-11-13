@@ -1,0 +1,8 @@
+.vscode
+.fleet
+*.code-workspace
+Makefile
+build
+run.sh
+.cache
+Game/Game
