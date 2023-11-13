@@ -8,7 +8,8 @@ Para usar o \*Visual Studio 2022, rode o `GenerateVSFiles.bat`
 
 Para usar o MinGW, rode o `GenerateMinGWFiles.bat`
 
-* Caso possua outra edição, edite o arquivo GenerateVSFiles.bat com a edição desejada.<br/>(Veja: <https://premake.github.io/docs/Using-Premake/>)
+\* Caso possua outra edição, edite o arquivo GenerateVSFiles.bat com a edição desejada.  
+(Veja: <https://premake.github.io/docs/Using-Premake/>)
 
 ### Linux
 
